@@ -1,6 +1,6 @@
 # Olá! Somos a discloud.
 
-![img](https://i.imgur.com/cNYbrnP.png)
+![img](https://i.imgur.com/M0WaCVp.png)
 
 A **primeira plataforma** em nuvem **especializada** em aplicações para Discord. 
 Nossos serviços são baseados em contêiner flexível, onde o **usuário tem autonomia** para gerenciar seus recursos como desejar.
