@@ -1,4 +1,4 @@
-# Olá! Somos a discloud.
+# Olá! Somos a Discloud.
 
 ![img](https://i.imgur.com/M0WaCVp.png)
 
