@@ -1,6 +1,5 @@
 # Olá! Somos a DisCloud.
 Hoje hospedamos **milhares de aplicações simultaneas**, tendo a melhor performance, custo-benefício e praticidade de uso 🤯.
-
 Oferecemos aos desenvolvedores, durante **24 horas por dia e 7 dias por semana**, uma forma **gratuita**, **rápida** e **simples de hospedar** suas aplicações.
 
 <img align="left" height="220" src="https://i.imgur.com/M0WaCVp.png"/>
