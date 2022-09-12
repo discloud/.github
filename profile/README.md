@@ -6,4 +6,4 @@ Atualmente hospedamos milhares de aplicações simultaneas, com a melhor perform
 #### `1.` Registe-se em [discloud.app](https://discloudbot.com/)
 #### `2.` Crie o arquivo de configuração [discloud.config](https://docs.discloudbot.com/suporte/faq/discloud.config)
 #### `3.` Prepare os arquivos para a sua [linguagem](https://docs.discloudbot.com/suporte/linguagens)
-#### `4.` Para hospedar seu projeto, existem 4 formas, pelo [Discord](https://docs.discloudbot.com/suporte/hospedar/sites/discord), [VSCode](https://marketplace.visualstudio.com/items?itemName=discloud.discloud), [CLI-js](https://www.npmjs.com/package/discloud-cli) ou [CLI-rust](https://github.com/discloud/cli-rust)
+#### `4.` Para hospedar seu bot ou site, existem 4 formas, pelo [Discord](https://docs.discloudbot.com/suporte/hospedar/sites/discord), [VSCode](https://marketplace.visualstudio.com/items?itemName=discloud.discloud), [CLI-js](https://www.npmjs.com/package/discloud-cli) ou [CLI-rust](https://github.com/discloud/cli-rust)
