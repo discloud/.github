@@ -1,0 +1,12 @@
+{
+  "name": "Discloud Deploy Action",
+  "description": "This action deploys your application to Discloud",
+  "categories": [
+    "Continuous integration",
+    "Deployment"
+  ],
+  "iconName": "discloud",
+  "filePatterns": [
+    "^discloud.config$"
+  ]
+}
