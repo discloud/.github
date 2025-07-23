@@ -4,7 +4,7 @@ Oferecemos aos desenvolvedores, durante **24 horas por dia e 7 dias por semana**
 
 <img align="left" height="220" src="https://i.imgur.com/M0WaCVp.png"/>
 
-#### `1.` Registre-se em [discloud.com](https://discloudbot.com/)
+#### `1.` Registre-se em [discloud.com](https://discloud.com/)
 #### `2.` Crie o arquivo de configuração [discloud.config](https://docs.discloudbot.com/suporte/faq/discloud.config)
 #### `3.` Prepare os arquivos do seu projeto de acordo com a [linguagem](https://docs.discloudbot.com/suporte/linguagens)
-#### `4.` Para hospedar seu bot ou site, existem 4 formas, pelo [Bot](https://docs.discloudbot.com/suporte/hospedar/sites/discord), [VSCode](https://marketplace.visualstudio.com/items?itemName=discloud.discloud) ou [CLI](https://www.npmjs.com/package/discloud-cli)
+#### `4.` Para hospedar seu bot ou site, existem 4 formas, pelo [Bot](https://docs.discloudbot.com/suporte/hospedar/sites/discord), [VSCode](https://marketplace.visualstudio.com/items?itemName=discloud.discloud), [CLI](https://www.npmjs.com/package/discloud-cli) ou [Site](https://discloud.com)
